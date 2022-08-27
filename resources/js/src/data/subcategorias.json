@@ -1,0 +1,94 @@
+{
+	"table": "Subcategorias",
+	"rows":
+	[
+		{
+			"id": 1,
+			"categoria_id": 1,
+			"name": "MINERAL MONOGRADO SAE 50 CF",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 2,
+			"categoria_id": 2,
+			"name": "MULTIGRADO DUAL 20W50 CF-4/SL",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 3,
+			"categoria_id": 3,
+			"name": "MULTIGRADO DUAL 15W40 ",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 4,
+			"categoria_id": 4,
+			"name": "SINTETICOS ",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 5,
+			"categoria_id": 5,
+			"name": "HIDRAULICO ISO 68",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 6,
+			"categoria_id": 6,
+			"name": "MANUALES TRANSMISION FLUID",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 7,
+			"categoria_id": 7,
+			"name": "ATF DEXRON III",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 8,
+			"categoria_id": 8,
+			"name": "MANUALES TRANSMISION FLUID ",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 9,
+			"categoria_id": 9,
+			"name": "20W50 MOTO 4T",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 10,
+			"categoria_id": 10,
+			"name": "ADITIVOS",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		},
+		{
+			"id": 11,
+			"categoria_id": 11,
+			"name": "GRASA",
+			"estatus": "0",
+			"created_At": "26/04/2022",
+			"updated_at": "26/04/2022"
+		}
+	]
+}

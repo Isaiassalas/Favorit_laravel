@@ -1,0 +1,322 @@
+{
+  "Header": {
+    "title": "¡Probado por el tiempo!",
+    "paragraph": "Los aceites de motor FAVORIT están diseñados para garantizar el funcionamiento eficiente y la protección de los turismos y vehículos comerciales en condiciones de carga elevada. Nuestros productos han superado con éxito las pruebas de laboratorio y las pruebas de producción."
+  },
+  "About": {
+    "paragraph": "LLC Eurasia Lubricants - empresa conjunta, cuyo enfoque principal es la producción  de aceites de motor y lubricantes. ",
+    "Why": [
+      "aceites de motor.",
+      "grasa.",
+      "aceites hidráulicos."
+     
+    ],
+    "Why2": [
+      "aceites de lavado.",
+      "aceites para engranajes.",
+      "anticongelante y otros fluidos técnicos."
+  
+    ],
+    "paragraph2": "La tecnología de producción se mejora constantemente. Las fórmulas se dominan y mejoran. La empresa está equipada con equipos tecnológicos programables precisos, lo que permite producir productos de alta calidad que cumplen con los estándares europeos y los más altos requisitos de los fabricantes de automóviles modernos. ",
+    "paragraph3": "Todos los productos «FAVORIT» se fabrican sobre la base de acuerdos de licencia celebrados con empresas alemanas y suizas, y en estricta conformidad con los reglamentos técnicos y los procesos de producción previstos. ",
+    "paragraph4": "En la producción de productos se utilizan materias primas de alta calidad de los principales fabricantes. A un alto nivel, se llevan a cabo el control de calidad de entrada de las materias primas y el control de calidad de salida de los productos terminados. Se emiten certificados y declaraciones de cumplimiento de los requisitos del Reglamento Técnico de la Unión Aduanera. ",
+    "paragraph5": "Los productos terminados se colocan en almacenes de tipo 'A', lo que le permite atender rápidamente a los clientes. La empresa también tiene a su disposición una flota de cisternas y contenedores con una capacidad superior a las 10 mil toneladas para el almacenamiento de productos terminados y componentes. ",
+    "paragraph6": "Una línea ferroviaria con rampa, ubicada en el territorio de la empresa, permite cargar petróleo en tanques ferroviarios, así como el envío de productos en vagones o vehículos para su transporte a países vecinos y más allá. "
+
+  },
+  "News": [
+    {
+     
+      "titulo": "Completó con éxito el programa de calificación de prueba de refrigerante",
+      "noticia": "De acuerdo con los requisitos de GOST / ISO 17043, el laboratorio de investigación de Eurasia Lubricants LLC ..."
+    },
+    {
+     
+      "titulo": "El laboratorio completó con éxito el programa de ensayos de aptitud",
+      "noticia": "De acuerdo con los requisitos de GOST / ISO 17043, el laboratorio de investigación de Eurasia Lubricants LLC ..."
+    },
+    {
+     
+      "titulo": "Cambiar números de teléfono",
+      "noticia": "Le informamos que a partir del 19 de marzo de 2020, hubo un cambio en los números de teléfono de Eurasia Lubricants LLC. En esto…"
+    },
+    {
+     
+      "titulo": "Actualización del sitio",
+      "noticia": "- Improved directory structure; - Improved the main page of the site; - Updated content."
+    }
+  ],
+
+  "Gallery": [
+    {
+      "title": "Oficina",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Laboratorio",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Producción y llenado de aceite",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Grasa",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "anticongelante",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Producción de botes de plástico",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "producción de envases metálicos",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Depósito",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Otros",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Marca": [
+    {
+      "title": "Recibir materia prima",
+      "Image": "img/marca/raw-materials.png"
+    },
+    {
+      "title": "Almacenar materia prima",
+      "Image": "img/marca/raw-materials1.png"
+    },
+    {
+      "title": "Producción",
+      "Image": "img/marca/factory.png"
+    },
+    {
+      "title": "Análisis de laboratorio",
+      "Image": "img/marca/laboratory.png"
+    },
+    {
+      "title": "Llenado y almacen producto terminado",
+      "Image": "img/marca/boxes.png"
+    
+    },  
+    {
+      "title": "Logística",
+      "Image": "img/marca/supply-chain-management.png"
+      
+    }
+  ],
+  "Services": [
+    {
+			"IdProducto": "1",
+			"Marca": "FAVORIT ",
+			"Nombre": "Favorit SAE 50 API CF MOTOR OIL (CAJA 20X1L)",
+			"Descripcion": "Favorit SAE 50 API CF MOTOR OIL (CAJA 20X1L)",
+			"CodigoProducto": "MHD5001",
+			"Codigodebarras": "null",
+			"IdCategoria": "1",
+			"IdSubCategoria": "1",
+			"Imagen": "img/team/ACIETE_GEN.png",
+			"Disponibilidad": "1",
+			"Precio": "null",
+			"FEchaCreacion": "26/04/2022",
+			"aud_creado": "26/04/2022",
+			"aud_actualizado": "26/04/2022",
+			"aud_borrado": "0"
+		},
+		{
+			"IdProducto": "2",
+			"Marca": "FAVORIT ",
+			"Nombre": "Favorit SAE 50 API CF MOTOR OIL (BIDON 20L)",
+			"Descripcion": "Favorit SAE 50 API CF MOTOR OIL (BIDON 20L)",
+			"CodigoProducto": "MHD5020",
+			"Codigodebarras": "null",
+			"IdCategoria": "1",
+			"IdSubCategoria": "1",
+			"Imagen": "img/team/ACIETE_GEN.png",
+			"Disponibilidad": "1",
+			"Precio": "null",
+			"FEchaCreacion": "26/04/2022",
+			"aud_creado": "26/04/2022",
+			"aud_actualizado": "26/04/2022",
+			"aud_borrado": "0"
+		},
+		{
+			"IdProducto": "3",
+			"Marca": "FAVORIT ",
+			"Nombre": "Favorit SAE 50 API CF MOTOR OIL (BARRICA 60L).",
+			"Descripcion": "Favorit SAE 50 API CF MOTOR OIL (BARRICA 60L).",
+			"CodigoProducto": "MHD5060",
+			"Codigodebarras": "null",
+			"IdCategoria": "1",
+			"IdSubCategoria": "1",
+			"Imagen": "img/team/ACIETE_GEN.png",
+			"Disponibilidad": "1",
+			"Precio": "null",
+			"FEchaCreacion": "26/04/2022",
+			"aud_creado": "26/04/2022",
+			"aud_actualizado": "26/04/2022",
+			"aud_borrado": "0"
+		},
+		{
+			"IdProducto": "4",
+			"Marca": "FAVORIT ",
+			"Nombre": "Favorit SAE 50 API CF MOTOR OIL (TAMBOR 208L).",
+			"Descripcion": "Favorit SAE 50 API CF MOTOR OIL (TAMBOR 208L).",
+			"CodigoProducto": "MHD50TB",
+			"Codigodebarras": "null",
+			"IdCategoria": "1",
+			"IdSubCategoria": "1",
+			"Imagen": "img/team/ACIETE_GEN.png",
+			"Disponibilidad": "1",
+			"Precio": "null",
+			"FEchaCreacion": "26/04/2022",
+			"aud_creado": "26/04/2022",
+			"aud_actualizado": "26/04/2022",
+			"aud_borrado": "0"
+		}
+
+  ],
+  "Contact": [
+    {
+      
+      "name": "Contactos del fabricante",
+      "tel": " +375(17) 516-65-11 ",
+      "direction":"Dirección", 
+      "email": " info@company.com",
+      "ubicacion": " Calle Constantino Maradey Casa N° 49, Caserio la Ponderosa, Barcelona Anzoategui zona postal 6001"
+      
+    },
+    {
+      
+      "name": "Contactos del fabricante",
+      "tel": " +375(17) 516-65-11 ",
+      "direction":"Dirección", 
+      "email": "info@company.com",
+      "ubicacion": " Calle Constantino Maradey Casa N° 49, Caserio la Ponderosa, Barcelona Anzoategui zona postal 6001"
+      
+    },
+    {
+      
+      "name": "Contactos del fabricante",
+      "tel": " +375(17) 516-65-11 ",
+      "direction":"Dirección", 
+      "email": "info@company.com",
+      "ubicacion": " Calle Constantino Maradey Casa N° 49, Caserio la Ponderosa, Barcelona Anzoategui zona postal 6001"
+      
+    },
+    {
+      
+      "name": "Contactos del fabricante",
+      "tel": "+375(17) 516-65-11 ",
+      "direction":"Dirección", 
+      "email": " info@company.com",
+      "ubicacion": " Calle Constantino Maradey Casa N° 49, Caserio la Ponderosa, Barcelona Anzoategui zona postal 6001"
+      
+    }
+   
+    
+  ],
+ 
+  "Catalogo": [
+    {
+      "categoria":"aceites",
+      "price":"30.88",
+      "dispo": "Disponible",
+      "img": "img/team/01.jpg",
+      "name": "Aceite de motor de turismos",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"aceites",
+      "price":"50",
+      "dispo": "Bajo demanda",
+      "img": "img/team/02.jpg",
+      "name": "Aceites de motor para camiones",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"grasas",
+      "price":"50.99",
+      "dispo": "Disponible",
+      "img": "img/team/03.jpg",
+      "name": "Grasas",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"aceites",
+      "price":"50.55",
+      "dispo": "Disponible",
+      "img": "img/team/ACIETE_GEN.png",
+      "name": "Aceites de motor según norma gost",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"aceites",
+      "price":"60.30",
+      "dispo": "Bajo demanda",
+      "img": "img/team/05.jpg",
+      "name": "Aceites industriales",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"contenedores",
+      "price":"121",
+      "dispo": "Bajo demanda",
+      "img": "img/team/06.jpg",
+      "name": "Producción de contenedores",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"aceites",
+      "price":"50.80",
+      "dispo": "Disponible",
+      "img": "img/team/07.jpg",
+      "name": "Aceites para motos, etc.",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    },
+    {
+      "categoria":"aceites",
+      "price":"70.99",
+      "dispo": "Disponible",
+      "img": "img/team/08.jpg",
+      "name": "Aceite de cadena",
+      "job": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus"
+    }
+    
+  ],
+  
+  "Features": [
+    {
+     "titlep":"Marca FAVORIT está representada en más de 30 países, su gama incluye una gama completa de lubricantes de alta calidad: aceites de motor, transmisión e hidráulicos, grasas y refrigerantes. Los productos de marca se venden en todos los segmentos del mercado automotriz: grandes tiendas y mercados especializados, estaciones de servicio, puntos de cambio de aceite, cadenas de hipermercados.",
+     "textp":"Gracias a nuestra experiencia y competencia, aseguramos el éxito de nuestros socios. Durante todo el tiempo de nuestro trabajo, nos hemos ganado la confianza de muchas empresas, que ahora son nuestros socios comerciales habituales.",
+      "title": "FAVORIT",
+      "text": "se trata de aceites y lubricantes producidos sobre la base de acuerdos de licencia entre Alemania y Suiza en estricta conformidad con los procesos de fabricación aprobados y los reglamentos técnicos proporcionados.",
+      "text2": "se trata de un seguimiento constante de la calidad del producto terminado. El más estricto control sobre los procesos tecnológicos y materias primas de entrada.",
+      "text3": "Es un logotipo llamativo y brillante, un diseño de empaque universal y moderno.",
+      "text4": "es una relación calidad-precio ideal.",
+      "text5": "Se trata de una gran variedad de aceites estándar y especializados, lubricantes para automóviles y camiones, así como equipos especiales.",
+      "text6": "se trata de tecnologías que se desarrollan y mejoran constantemente.",
+      "mensaje": "Fabricante exclusivo bajo licencias germano-suizas en la República de Bielorrusia - LLC Eurasia Lubricants"
+     
+ 
+    } 
+   
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"table": "Categorias",
+	"rows":
+	[
+		{
+			"IdCategoria": 1,
+			"Nombre": "LUBRICANTES",
+			"Descripcion": "LUBRICANTES",
+			"Aud_creado": "26/04/2022",
+			"aud_actualizado": "26/04/2022",
+			"aud_borrado": 0
+		},
+		{
+			"IdCategoria": 2,
+			"Nombre": "GRASAS",
+			"Descripcion": "GRASA",
+			"Aud_creado": "26/04/2022",
+			"aud_actualizado": "26/04/2022",
+			"aud_borrado": 0
+		}
+	]
+}
