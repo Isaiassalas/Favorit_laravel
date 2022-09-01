@@ -9,10 +9,9 @@ class Lista_para_web_favorit extends Model
 {
     use HasFactory;
 
-    protected $table = 'lista_para_web_favorit';
+    protected $table = 'productos';
     protected $fillable = ['Marca', 'Nombre', 'Descripcion', 'CodigoProducto'];
-    const CREATED_AT = 'aud_creado';
-    const UPDATED_AT = 'aud_actualizado';
-    public $timestamps = false;
+    const CREATED_AT = 'Aud_Creado';
+    const UPDATED_AT = 'Aud_Actualizado';
     protected $primarykey = 'IdProducto';    
 }
